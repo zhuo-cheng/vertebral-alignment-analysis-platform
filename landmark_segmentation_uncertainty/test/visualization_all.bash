@@ -1,0 +1,1 @@
+python ../volume-renderer-master/render_with_all_results_arg.py --img_folder ./img --seg_folder ./results/vertebrae_bayesian_segmentation_original --csv_folder ./results/vertebrae_localization --vis_folder ./visualization

@@ -1,0 +1,6 @@
+numpy==1.16.0
+vtk==9.0.1
+itk==5.1.1
+SimpleITK==1.2.4
+tensorflow-gpu==1.15.0
+opencv-python==4.4.0.42
