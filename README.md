@@ -1,4 +1,4 @@
-# Spine-Alignment-Analysis-Platform
+# Vertebral-Alignment-Analysis-Platform
 
 ## Localization and Bayesian Segmentation of Vertebrae
 
@@ -23,7 +23,7 @@ Vertebrae localization and segmentation are performed by a three-stage fully aut
 
 Additionally, the segmentation network in the final stage is reformed to the Bayesian 3D U-Net to estimate segmentation uncertainty by multiple test-time MC dropout samples
 
-![ad](https://github.com/zhuo-cheng/Spine-Alignment-Analysis-Platform/blob/main/sample_figs/approach.png)
+![ad](https://github.com/zhuo-cheng/Vertebral-Alignment-Analysis-Platform/blob/master/sample_figs/approach.png)
 
 ### Models
 The models trained by the dataset VerSe 2019 in the repo are from the project [MedicalDataAugmentationTool-VerSe](https://github.com/christianpayer/MedicalDataAugmentationTool-VerSe/tree/master/verse2019). 
@@ -71,8 +71,8 @@ bash visualization_all.bash
 
 **Examples of visuliazation**
 <p float="left">
-<img src="https://github.com/zhuo-cheng/Spine-Alignment-Analysis-Platform/blob/main/sample_figs/render_vis_1.png" width="410">
-<img src="https://github.com/zhuo-cheng/Spine-Alignment-Analysis-Platform/blob/main/sample_figs/render_vis_2.png" width="410">
+<img src="https://github.com/zhuo-cheng/Vertebral-Alignment-Analysis-Platform/blob/master/sample_figs/render_vis_1.png" width="410">
+<img src="https://github.com/zhuo-cheng/Vertebral-Alignment-Analysis-Platform/blob/master/sample_figs/render_vis_2.png" width="410">
 </p>
 
 ## Spine Alignment Analysis
