@@ -11,7 +11,7 @@ The approach and implementation of the vertebrae localization and segmentation i
 * [Coarse to Fine Vertebrae Localization and Segmentation with SpatialConfiguration-Net and U-Net](https://cpb-ap-se2.wpmucdn.com/blogs.auckland.ac.nz/dist/1/670/files/2020/06/2020PayerVISAPP.pdf) 
 * [MedicalDataAugmentationTool-VerSe](https://github.com/christianpayer/MedicalDataAugmentationTool-VerSe/tree/master/verse2019)
 
-We also ued the following toolkits:
+We also used the following toolkits:
 * [MedicalDataAugmentationTool](https://github.com/christianpayer/MedicalDataAugmentationTool)
 * [volume-renderer](https://github.com/yuta-hi/volume-renderer)
 
