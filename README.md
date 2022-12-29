@@ -1,4 +1,4 @@
-# Vertebral-Alignment-Analysis-Platform
+# vertebral-alignment-analysis-platform
 
 ## Localization and Bayesian Segmentation of Vertebrae
 
