@@ -58,7 +58,7 @@ The added environment variable of the *MedicalDataAugmentationTool* needs to be 
 Run the bash script for the inference.
 
 ```bash
-bash inference_verse19_models.bash
+bash inference_verse19_models.sh
 ```
 
 ### Visualization
@@ -66,7 +66,7 @@ bash inference_verse19_models.bash
 Run the bash script for the visuliazatrion of results.
 
 ```bash
-bash visualization_all.bash
+bash visualization_all.sh
 ```
 
 **Examples of visuliazation**
